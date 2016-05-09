@@ -1,0 +1,15 @@
+.jumbotron {
+  text-align: center;
+  height: auto;
+  background-image: url("bmi3.jpg");
+  background-size:cover;
+  color:darkslategray;
+}
+.jumbotron .btn {
+  padding: 14px 24px;
+  font-size: 18px;
+}
+form  { display: table;      }
+p     { display: table-row;  }
+label { display: table-cell; }
+input { display: table-cell; text-align:center; }
